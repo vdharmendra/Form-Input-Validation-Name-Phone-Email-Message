@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Form Input Validation: Name, Phone, Email & Message</title>
+    <meta name="description" content="Learn how to implement complete form input validation for name, phone, email, and message fields to ensure correct data submission on your website or web application.">
+    <meta name="keywords" content="form validation, name input validation, phone number validation, email validation, message validation, form security, input validation tutorial, HTML form validation">
+    <meta name="author" content="Virendra D. Verma">
+    <!-- BOOTSTRAP LINK -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <!-- LINK CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <form>
+            <i class="bi bi-send-check-fill"></i>
+      
+            <div class="inputGroup">
+              <label>Full Name</label>
+              <input type="text" placeholder="Enter your name" id="fName" onkeyup="validateName()">
+              <span id="nameError"></span>
+            </div>
+      
+            <div class="inputGroup">
+              <label>Phone No.</label>
+              <input type="tel" placeholder="123 456 7890" id="pNumber" onkeyup="validatePhone()">
+              <span id="phoneError"></span>
+            </div>
+      
+            <div class="inputGroup">
+              <label>Email Id</label>
+              <input type="email" placeholder="Enter Email" id="emailAddress" onkeyup="validateEmail()">
+              <span id="emailError"></span>
+            </div>   
+      
+            <div class="inputGroup">
+              <label>Your Message</label>
+              <textarea rows="5" placeholder="Enter your message" id="contactMessage" onkeyup="validateMessage()"></textarea>
+              <span id="messageError"></span>
+            </div>
+      
+          <button onclick="return validateForm()">Submit</button>
+          <span id="submitError"></span>
+         
+        </form>
+    </div>
+
+    <!-- SCRIPT LINK -->
+    <script src="main.js"></script>
+</body>
+</html>

@@ -28,31 +28,33 @@ This project demonstrates how to implement complete form input validation for th
 
 <br>
 <span>Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="575px"/>
+<a href="https://www.behance.net/gallery/223115935/Form-Input-Validation-Name-Phone-Email-Message" target="_blank" >
+<img src="./img/formValidationAnimation.gif" width="575px"/>
 </a>
 
 <br>
 <span>Desktop UI UX Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="575px"/>
+<a href="https://www.behance.net/gallery/223115935/Form-Input-Validation-Name-Phone-Email-Message" target="_blank" >
+<img src="./img/formValidationUIUXLayoutAnimation.gif" width="575px"/>
 </a>
 <br />
 <span>Desktop Design UI UX Layout</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="225px"/>
-<img src="./img/" width="225px"/>
+<a href="https://www.behance.net/gallery/223115935/Form-Input-Validation-Name-Phone-Email-Message" target="_blank" >
+<img src="./img/formValidationUIUXLayout.png" width="225px"/>
+<img src="./img/formValidation2UIUXLayout.png" width="225px"/>
+<img src="./img/formValidationUIUXLayout.png" width="225px"/>
 
 </a>
 <br />
 <span>Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="./img/" width="225px"/>
-<img src="./img/" width="225px"/>
+<a href="https://www.behance.net/gallery/223115935/Form-Input-Validation-Name-Phone-Email-Message" target="_blank" >
+<img src="./img/formValidationAnimation.png" width="225px"/>
+<img src="./img/formValidationAnimation2.png" width="225px"/>
+<img src="./img/formValidationAnimation3.png" width="225px"/>
 
 </a>
 
 <span>Cover</span><br/>
-<a href="#" target="_blank" >
+<a href="https://www.behance.net/gallery/223115935/Form-Input-Validation-Name-Phone-Email-Message" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
